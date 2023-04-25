@@ -1,3 +1,4 @@
 host, adapi.izuiyou.com, reject
 host, start.izuiyou.com, 最右
 host, api.izuiyou.com, 最右
+#host, file.izuiyou.com, 最右
